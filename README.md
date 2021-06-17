@@ -1,6 +1,8 @@
 # NukeBOT-Discord
 
 Nukebot for discord servers (python)
+
+Less go: discord.gg/escPe5SUYZ
 __________________________________________________________________
 
 CMD:
