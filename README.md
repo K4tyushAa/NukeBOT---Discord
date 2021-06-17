@@ -31,4 +31,5 @@ List of comands:
 
 >rdelete (deletes all roles below the bot)
 
+>help
 __________________________________________________________________
