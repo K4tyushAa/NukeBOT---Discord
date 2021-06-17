@@ -1,6 +1,13 @@
-# NukeBOT---Discord
+# NukeBOT-Discord
 
 Nukebot for discord servers (python)
+__________________________________________________________________
+
+CMD:
+>pip install discord.py
+
+>pip install colorama
+
 __________________________________________________________________
 
 List of comands:
@@ -32,4 +39,8 @@ List of comands:
 >rdelete (deletes all roles below the bot)
 
 >help
+__________________________________________________________________
+
+Open config.JSON and put the your BOT token
+
 __________________________________________________________________
