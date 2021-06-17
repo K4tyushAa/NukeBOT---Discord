@@ -4,31 +4,31 @@ A nukebot for discord servers (python)
 __________________________________________________________________
 
 List of comands:
+(prefix = >)
+>cspam [amount] [name] (text channel)
 
->>cspam [amount] [name] (text channel)
+>vcspam [amount] [name] (voice channel)
 
->>vcspam [amount] [name] (voice channel)
+>d all (delete all channels)
 
->>d all (delete all channels)
+>banAll
 
->>banAll
+>pingspam
 
->>pingspam
+>admin
 
->>admin
+>nickall [name]
 
->>nickall [name]
+>servername [name]
 
->>servername [name]
+>rspam (role spam)
 
->>rspam (role spam)
+>transrspam (ASTOLFO NUKES YOU)
 
->>transrspam (ASTOLFO NUKES YOU)
+>kickAll
 
->>kickAll
+>lagspam
 
->>lagspam
-
->>rdelete (deletes all roles below the bot)
+>rdelete (deletes all roles below the bot)
 
 __________________________________________________________________
