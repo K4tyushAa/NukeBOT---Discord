@@ -1,6 +1,6 @@
 # NukeBOT---Discord
 
-A nukebot for discord servers (python)
+Nukebot for discord servers (python)
 __________________________________________________________________
 
 List of comands:
