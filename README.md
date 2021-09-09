@@ -43,6 +43,6 @@ List of comands:
 >help
 __________________________________________________________________
 
-Open config.JSON and put the your BOT token
+Open config.JSON and put your BOT token
 
 __________________________________________________________________
