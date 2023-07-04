@@ -13,9 +13,9 @@ __________________________________________________________________
 List of comands:
 (prefix = >)
 
->cspam [amount] [name] (cria chat de texto)
+>cspam [quantia] [nome] (cria chat de texto)
 
->vcspam [amount] [name] (cria canal de voz)
+>vcspam [quantia] [nome] (cria canal de voz)
 
 >d all (deleta todos os canais)
 
@@ -25,9 +25,9 @@ List of comands:
 
 >admin (te concede um cargo de admin)
 
->nickall [name] (renomeia todos do servidor)
+>nickall [nome] (renomeia todos do servidor)
 
->servername [name] (troca o nome do servidor)
+>servername [nome] (troca o nome do servidor)
 
 >rspam (spama cargos)
 
