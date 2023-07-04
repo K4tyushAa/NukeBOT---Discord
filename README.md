@@ -1,6 +1,6 @@
 # NukeBOT-Discord
 
-Nukebot for discord servers (python)
+Nukebot para o discord
 __________________________________________________________________
 
 CMD:
@@ -12,35 +12,32 @@ __________________________________________________________________
 
 List of comands:
 (prefix = >)
->cspam [amount] [name] (text channel)
 
->vcspam [amount] [name] (voice channel)
+>cspam [amount] [name] (cria chat de texto)
 
->d all (delete all channels)
+>vcspam [amount] [name] (cria canal de voz)
 
->banAll
+>d all (deleta todos os canais)
 
->pingspam
+>banAll (bane todos os membros)
 
->admin
+>pingspam (spamma @everyone)
 
->nickall [name]
+>admin (te concede um cargo de admin)
 
->servername [name]
+>nickall [name] (renomeia todos do servidor)
 
->rspam (role spam)
+>servername [name] (troca o nome do servidor)
 
->transrspam (ASTOLFO NUKES YOU)
+>rspam (spama cargos)
 
->kickAll
+>trspam (spama cargos nas cores astolfo)
 
->lagspam
+>kickAll (expulsa todos os membros
 
->rdelete (deletes all roles below the bot)
+>lagspam (spamma o chat com emojis afim de trava-lo)
 
->help
-__________________________________________________________________
+>rdelete ( deleta todos os cargos que estão abaixo do bot)
 
-Open config.JSON and put your BOT token
-
+>help (te mostra todos os comandos acima)
 __________________________________________________________________
